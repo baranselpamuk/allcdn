@@ -1,4 +1,4 @@
-# Karışık CDN Servislerinin Tek Bir Link'e Toplanmış Hali İle Kolayca Projelerinize Dahil Edebilirsiniz. Yapının İçersinde Bootstrap,CloudFlare,GoogleApis Gibi CDN Servislerinin Verileri Mevcut. Yakın Zamanda Yeni Release Yayınlayarak Daha Fazla CDN Servisi Dahil Edeceğiz # 
+ Karışık CDN Servislerinin Tek Bir Link'e Toplanmış Hali İle Kolayca Projelerinize Dahil Edebilirsiniz. Yapının İçersinde Bootstrap,CloudFlare,GoogleApis Gibi CDN Servislerinin Verileri Mevcut. Yakın Zamanda Yeni Release Yayınlayarak Daha Fazla CDN Servisi Dahil Edeceğiz
 
 # - PHP İnclude İle CSS-CDN Çekimi ;
 
